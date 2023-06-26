@@ -1,0 +1,13 @@
+{
+  "project": {
+    "name": "weird-oranda-example",
+    "repository": "https://github.com/shadows-withal/weird-oranda-example"
+  },
+  "components": {
+    "artifacts": {
+      "package_manager": {
+	"npm": "npm install hi -g"
+      }
+    }
+  }
+}
