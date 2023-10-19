@@ -1,10 +1,24 @@
 {
+  "styles": {
+    "theme": "hacker"
+  },
   "components": {
-    "artifacts": {
-      "package_managers": {
-	"preferred": {
-	}
-      }
+    "mdbook": {
+      "theme": true
+    },
+    "changelog": false,
+    "funding": {
+      "yml_path": ".github/FUNDING.yml"
     }
+  },
+  "build": {
+    "dist_dir": "./public/",
+    "static_dir": "./static/",
+    "path_prefix": "weird-oranda-test"
+  },
+  "project": {
+    "name": "weird-oranda-test",
+    "repository": "https://github.com/shadows-withal/weird-oranda-test",
+    "readme_path": "./README.md"
   }
 }
