@@ -1,6 +1,6 @@
 [package]
 name = "weird-oranda-test"
-version = "0.5.1"
+version = "0.6.0-prerelease.1"
 edition = "2021"
 repository = "https://github.com/shadows-withal/weird-oranda-test"
 
